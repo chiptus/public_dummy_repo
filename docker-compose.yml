@@ -1,7 +1,7 @@
 version: '3.1'
 services:
   webapp:
-    image: nginx:latest
+    image: nginx
     volumes:
       - ./static:/usr/share/nginx/html
   db:
