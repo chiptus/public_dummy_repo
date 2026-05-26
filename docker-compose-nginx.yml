@@ -1,0 +1,6 @@
+services:
+  webapp:
+    image: nginx:latest
+    ports:
+      - "80:80"
+
