@@ -18,6 +18,6 @@ spec:
         app: test
     spec:
       containers:
-        - image: nginx
-          name: nginx
+        - image: httpd
+          name: httpd
           resources: {}
