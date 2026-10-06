@@ -9,5 +9,6 @@ data:
     <html>
       <body>
         <h1>nginx from agent</h1>
+        <b>I can do what I want</b>
       </body>
     </html>
