@@ -8,8 +8,6 @@ data:
     <!doctype html>
     <html>
       <body>
-        <h1>nginx from agent times 2</h1>
-        <b>I can do what I want</b>
-        <p>testing</p>
+        <h1>nginx - don't change</h1>
       </body>
     </html>
