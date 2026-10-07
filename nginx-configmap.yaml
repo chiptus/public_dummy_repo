@@ -8,6 +8,6 @@ data:
     <!doctype html>
     <html>
       <body>
-        <h1>nginx - don't change</h1>
+        <h1>nginx from agent 2</h1>
       </body>
     </html>
