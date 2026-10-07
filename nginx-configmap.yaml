@@ -8,6 +8,7 @@ data:
     <!doctype html>
     <html>
       <body>
-        <h1>nginx - don't change</h1>
+        <h1>my beautiful app</h1>
+        <b>really</b>
       </body>
     </html>
